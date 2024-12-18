@@ -1,0 +1,30 @@
+#tabela-portfolio-responsivo {
+	max-width: 849px;
+	width: 100%;
+	display: block;
+	height: 889px;
+	max-height: 1900px;
+	background-image: url("../imagens/fundo-negro-3.jpg");
+}
+
+#tabela-logo {
+	display: none;
+}
+
+.imagem-portfolio {
+	max-width: 640px;
+	width: 150%;
+	height: 220px;
+	display: block;
+	margin-left: 100%;
+	margin-top: 5px;
+}
+
+.imagem-portfolio2 {
+	max-width: 640px;
+	width: 150%;
+	height: 220px;
+	display: block;
+	margin-left: 100%;
+	margin-top: 5px;
+}

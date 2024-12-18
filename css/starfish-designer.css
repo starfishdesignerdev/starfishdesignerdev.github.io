@@ -1,0 +1,175 @@
+/* Reseta as margens e os paddings para 0(Zero) */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+
+footer {
+	max-width: 1920px;
+	width: 100%;
+	background-color: #302A20;
+	border-top: 2px solid #151411;
+	color: white;
+	text-align: center;
+	font-family: Tahoma, Arial, sans-serif;
+	font-size: 18px;
+}
+
+a {
+	color: orange;
+}
+
+#containers {
+	margin: 0;
+	padding: 0;
+	max-width: 1920px;
+	width: 100%;
+}
+
+#tabela-logo {
+	max-width: 1920px;
+	width: 100%;
+	height: 639px;
+	max-height: 1900px;
+	background-image: url("../imagens/fundo-negro-3.jpg");
+}
+
+#imagem-logo {
+	max-width: 400px;
+	width: 100%;
+	display: block;
+	margin: 0 auto 0 auto;
+	margin-top: 120px;
+}
+
+#imagem-escritorio {
+	max-width: 400px;
+	width: 100%;
+	height: 320px;
+	display: block;
+	margin: 0 auto 0 auto;
+}
+
+#imagem-circulo-webdesigner {
+	width: 276px;
+	max-width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#tabela-portfolio-responsivo {
+	display: none;
+}
+
+#formulario-starfish-designer {
+	max-width: 640px;
+	width: 100%;
+	margin: 0 auto 0 auto;
+	text-align: center;
+}
+
+.fundo-subtitulo {
+	background: blue;
+	color: white;
+	font-size: 16px;
+	font-family: Arial, Tahoma, Sans-serif;
+	font-weight: bold;
+}
+
+.fonte-corpo {
+	font-family: Tahoma, Arial, Sans-serif;
+	font-size: 14px;
+	color: white;
+}
+
+.imagem-portfolio {
+	max-width: 400px;
+	width: 100%;
+	height: 220px;
+}
+
+.imagem-portfolio2 {
+	max-width: 400px;
+	width: 100%;
+	height: 220px;
+	display: block;
+	margin: 0 auto 0 auto;
+}
+
+.fundo-titulo {
+	background: #E4EC80;
+	color: black;
+	font-size: 18px;
+	font-family: Tahoma, Arial, Sans-serif;
+	font-weight: bold;
+	max-width: 1920px;
+	width: 100%;
+	text-align: center;
+}
+
+.noads {
+    display: none;
+}
+
+.textarea-estilo {
+	max-width: 640px;
+	width: 100%;
+	margin: 0 auto 0 auto;
+}
+
+/*----------------------
+		MENU
+------------------------*/
+.menu{
+	list-style: none;
+	float: left;
+	max-width: 991px;
+	width: 100%;
+	font-family: Arial, Tahoma, sans-serif;
+}
+
+.menu li{
+	position: relative;
+	float: left;
+}
+
+.menu li a{
+	color: white;
+	text-decoration: none;
+	padding: 5px 10px;
+	display: block;
+	transition: all 400ms ease-in-out;
+}
+
+.menu li a:hover{
+	background: #151411;
+	color: #fff;
+}
+
+.menu li a:visited{
+	color: #A08B61;
+}
+
+menu li a:active {
+  color: #271F10;
+}
