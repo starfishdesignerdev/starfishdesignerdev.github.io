@@ -1,5 +1,4 @@
-###############################################################################
-# Desenvolvedora: Starfish Designer                                                                                                                                                           #
-#                                                                                                                                                                                                                                  #
-# Licenca:  Nao pode ser copiado o codigo deste website e usar em projetos comerciais e nao comerciais.                    #
-###############################################################################
+####################################################################################################################
+Desenvolvedora: Starfish Designer                                                                                                                         
+Licenca:  Nao pode ser copiado o codigo deste website e usar em projetos comerciais e nao comerciais e nem imagens.
+####################################################################################################################
